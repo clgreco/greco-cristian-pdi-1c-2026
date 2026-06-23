@@ -117,8 +117,8 @@ python app.py
 
 ## Despliegue
 
-🤗 **Hugging Face Space:** _(link después del deploy)_
-📦 **Repositorio:** _(link después del push a GitHub)_
+🤗 **Hugging Face Space:** https://huggingface.co/spaces/clgreco/gesture-recorder
+📦 **Repositorio:** https://github.com/clgreco/greco-cristian-pdi-1c-2026/tree/main/gesture-recorder
 
 ---
 
