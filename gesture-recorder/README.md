@@ -17,7 +17,7 @@ MediaPipe Hands. La grabación se inicia mostrando la palma abierta a la
 cámara y se detiene cerrando el puño. El video resultante queda
 disponible para descargar.
 
-> **Materia:** Laboratorio de Tecnologías de la Imagen Digital
+> **Materia:** Procesamiento de Imagenes
 > **Tecnicatura:** Desarrollo de Inteligencia Artificial
 > **Entrega:** Laboratorio Integrador — 23 / junio / 2026
 > **Línea elegida:** Línea 1 — MediaPipe para detección de pose (manos)
