@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+.env
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+grabaciones/
+*.mp4
+!assets/*.mp4
+
+# Modelo de MediaPipe descargado en runtime
+hand_landmarker.task
