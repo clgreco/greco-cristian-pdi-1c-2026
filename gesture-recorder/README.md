@@ -107,7 +107,7 @@ python app.py
 ---
 
 ## Limitaciones conocidas
-
+- Limitaciones del navegador, se debe oprimir el boton record para iniciar la grabación.
 - En Hugging Face Spaces gratis (CPU), el frame rate efectivo es ~5 fps.
 - No graba audio, solo video.
 - Una sola mano por vez.
@@ -120,8 +120,3 @@ python app.py
 🤗 **Hugging Face Space:** https://huggingface.co/spaces/clgreco/gesture-recorder
 📦 **Repositorio:** https://github.com/clgreco/greco-cristian-pdi-1c-2026/tree/main/gesture-recorder
 
----
-
-## Licencia
-
-MIT.
